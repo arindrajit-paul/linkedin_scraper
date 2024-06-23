@@ -29,4 +29,4 @@ The scraped data is saved in a CSV file named `data-analyst-jobs.csv` or anythin
 - Add a simple user interface
 
 ## Screenshot of the output
-![Output](job_scraper/screenshot/sample-output.png)
+![Output](screenshot/sample-output.png)
