@@ -21,3 +21,12 @@ python job_scraper.py
 
 # Output
 The scraped data is saved in a CSV file named `data-analyst-jobs.csv` or anything you choose to name it. Just make sure to change the name in the code.
+
+# Future Improvements
+- Add more job sites to scrape data from
+- Add more fields to scrape
+- Cleanup the raw output
+- Add a simple user interface
+
+## Screenshot of the output
+![Output](job_scraper/screenshot/sample-output.png)
